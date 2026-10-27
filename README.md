@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0290-word-pattern](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0290-word-pattern) |
 ## Union-Find
 |  |
 | ------- |
@@ -17,4 +18,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0290-word-pattern](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
