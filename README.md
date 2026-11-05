@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -33,9 +34,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
