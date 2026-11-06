@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0735-asteroid-collision](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2104-sum-of-subarray-ranges](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -53,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
