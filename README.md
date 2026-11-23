@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0735-asteroid-collision](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
+| [0912-sort-an-array](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0912-sort-an-array](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
@@ -65,4 +67,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
