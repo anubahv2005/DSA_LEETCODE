@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3360-stone-removal-game](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/anubahv2005/DSA_LEETCODE/tree/master/3360-stone-removal-game) |
 ## Monotonic Stack
 |  |
 | ------- |
